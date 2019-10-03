@@ -1,8 +1,8 @@
-#Ceasar Cipher
+# Ceasar Cipher
 
-##This is an attempt to create Ceasars Cipher(Encryptor/Decryptor) with C++.
+## This is an attempt to create Ceasars Cipher(Encryptor/Decryptor) with C++.
 
-###Usage: eg. `caesar -e <Text> -s <Shifts>`
+### Usage: eg. `caesar -e <Text> -s <Shifts>`
 >
 > -e encrypt given text, is nessesary to provide the shift number.
 >
